@@ -41,4 +41,4 @@ This project uses the following dependencies:
 
 ## Deployment
 
-The project is deployed on Netlify. You can access it [here](https://tadkatalks-recipe-app.netlify.app/listedrecipe).
+The project is deployed on Netlify. You can access it [here](https://tadkatalks-recipe-app.netlify.app/).
